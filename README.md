@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #2675ebff">André Elias das Silva</h1>
-<p align="center">Adoro aprender coisas novas, sou formado em Ciências Atuariais e MBA em Business Inteligence, atualmente trabalho como analista de produtos.</p>
+<p align="center">Adoro aprender coisas novas, sou formado em Ciências Atuariais e MBA em Business Intelligence (BI), atualmente trabalho como analista de produtos.</p>
 <h2 align="center"> 🔌Conecte-se comigo </h2>
 
 <div align="center">
